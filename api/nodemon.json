@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "devilaccount1250",
+    "JWT_KEY": "azon1250"
+  }
+}
